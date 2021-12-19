@@ -1,0 +1,16 @@
+CRITICAL - 2021-10-01 15:32:22 --> Undefined offset: 0
+#0 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\app\Controllers\Measurement_log.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\Users\\Admini...', 49, Array)
+#1 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Measurement_log->get()
+#2 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Measurement_log))
+#3 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\Users\\Admini...')
+#6 {main}
+CRITICAL - 2021-10-01 15:32:52 --> Undefined offset: 28
+#0 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\app\Controllers\Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\Users\\Admini...', 90, Array)
+#1 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Home->graph('1')
+#2 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Administrator\Documents\Master eGateway\eGateway_py\gui\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\Users\\Admini...')
+#6 {main}

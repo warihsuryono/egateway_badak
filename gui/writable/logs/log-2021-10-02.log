@@ -1,0 +1,54 @@
+CRITICAL - 2021-10-02 11:46:15 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}
+CRITICAL - 2021-10-02 11:46:16 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}
+CRITICAL - 2021-10-02 11:46:17 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}
+CRITICAL - 2021-10-02 11:46:20 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}
+CRITICAL - 2021-10-02 11:46:21 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}
+CRITICAL - 2021-10-02 11:46:22 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}
+CRITICAL - 2021-10-02 11:46:23 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}
+CRITICAL - 2021-10-02 11:46:24 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}
+CRITICAL - 2021-10-02 11:46:25 --> date_default_timezone_set(): Timezone ID 'Asia/Makasar' is invalid
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_ti...', 'C:\\Users\\Admini...', 179, Array)
+#1 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(179): date_default_timezone_set('Asia/Makasar')
+#2 C:\Users\Administrator\Documents\eGateway_py\gui\vendor\codeigniter4\framework\system\bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\Administrator\Documents\eGateway_py\gui\spark(44): require('C:\\Users\\Admini...')
+#4 {main}

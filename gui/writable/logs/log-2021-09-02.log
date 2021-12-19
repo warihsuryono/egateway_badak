@@ -1,0 +1,26 @@
+CRITICAL - 2021-09-02 09:39:21 --> Unable to connect to the database.
+#0 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#2 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\WORKSPACE\eGateway_py\gui\app\Controllers\BaseController.php(102): CodeIgniter\BaseModel->findAll()
+#5 C:\WORKSPACE\eGateway_py\gui\app\Controllers\Home.php(34): App\Controllers\BaseController->common()
+#6 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Home->index()
+#7 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\WORKSPACE\eGateway_py\gui\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\WORKSPACE\\eG...')
+#11 {main}
+CRITICAL - 2021-09-02 09:39:21 --> Unable to connect to the database.
+#0 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#2 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\WORKSPACE\eGateway_py\gui\app\Controllers\BaseController.php(102): CodeIgniter\BaseModel->findAll()
+#5 C:\WORKSPACE\eGateway_py\gui\app\Controllers\Home.php(34): App\Controllers\BaseController->common()
+#6 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Home->index()
+#7 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\WORKSPACE\eGateway_py\gui\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\WORKSPACE\eGateway_py\gui\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\WORKSPACE\\eG...')
+#11 {main}
